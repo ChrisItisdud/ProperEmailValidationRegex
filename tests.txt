@@ -1,0 +1,12 @@
+my-email@test.com
+my-email@i.have.subdomains.com
+anemail@wedontneedsubdomainsactually
+domainthatsjustnumbers@1254.5234.665
+idontneeddomains@[129.34.90.1]
+icandov6too@[IPv6:2345:0425:2ca1:3452:2345:0567:5673:23b5]
+shortenedv6aswell@[IPv6:2345:0425:2ca1::23b5]
+ipv6withv4attheend@[IPv6:2345:0425:2ca1:23b5:2ca1:23b5:190.235.90.1]
+shortenedv6withv4attheend@[IPv6:2345::23b5:190.235.90.1]
+icancontain/es@test.email
+""@test.com
+"Local,part.!!! contains \" ESCAPED \\ STUFF AND@ SPACES"@test
